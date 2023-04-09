@@ -20,6 +20,7 @@
     <!--Se declaran los modulos hijos-->
     <modules>
         <module>msvc-usuarios</module>
+        <module>msvc-cursos</module>
     </modules>
 
 
